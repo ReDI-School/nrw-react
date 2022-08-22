@@ -8,7 +8,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - [01 - Welcome and JavaScript Recap](#01---welcome-and-javascript-recap)
 - [02 - JavaScript Recap](#01---javascript-recap)
-- [03 - JavaScript Recap](#03---workshop-js-to-know-for-react)
+- [03 - Workshop: JS to know for React](#03---workshop-js-to-know-for-react)
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
 - [05 - React Exercises](#05---react-exercises)
 - [06 - React Components](#06---react-components)
