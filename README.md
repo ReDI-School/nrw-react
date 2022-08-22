@@ -24,7 +24,7 @@ You can also find more resources to help you on your React learning journey in [
 
 ## 01 - Welcome and JavaScript Recap
 
-- 🖥  [Slides](https://docs.google.com/presentation/d/1htKCGdroUouI6CP_OsFd0LPuijGOQFFHPe9j80F0Gdc/edit?usp=sharing)
+- 🖥  [Slides](https://docs.google.com/presentation/d/1XwpGyjgvvc6HPFbaBBRd7-KJzZWPC_umfSITtjXBpxA/edit?usp=sharing)
 - 📝 [Very detailed yet simple explanation of imports and exports in JS](https://javascript.info/import-export)
 
 ## 02 - JavaScript Recap
