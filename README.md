@@ -14,13 +14,12 @@ You can also find more resources to help you on your React learning journey in [
 - [06 - React Components](#06---react-components)
 - [07 - React Components Exercises](#07---react-components-exercises)
 - [08 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
-- [09 - Career Workshop](#09---career-workshop)
-- [10 - Event Handling](#10---event-handling)
-- [11 - Component Hierarchy and Passing Props](#11--component-hierarchy-and-passing-props)
-- [12 - styled-components and exercises](#12--styled-components-and-exercises)
-- [13- Children and Styling](#13---children-and-styling)
-- [14 - React Workshop](#14---react-workshop)
-- [15 - Retro and Styling Exercises](#15---retro-and-styling-exercises)
+- [09 - Event Handling](#09---event-handling)
+- [10 - Component Hierarchy and Passing Props](#10--component-hierarchy-and-passing-props)
+- [11 - styled-components and exercises](#11--styled-components-and-exercises)
+- [12- Children and Styling](#12---children-and-styling)
+- [13 - React Workshop](#13---react-workshop)
+- [14 - Retro and Styling Exercises](#14---retro-and-styling-exercises)
 
 
 ## 01 - Welcome and JavaScript Recap
@@ -74,37 +73,33 @@ _More fun games from James_
 - 📦  [Homework](https://codesandbox.io/s/portfolio-skills-list-unnwl)
 - ✏️ [Anil's solution for the event handling exercise](https://codesandbox.io/s/event-handlers-forked-yd1nd)
 
-## 09 - Career Workshop
-
-- 🖥  [Slides](https://redi-school.slack.com/files/U01RWEY3YF3/F01SPRJA1PE/how_to_start_your_career_in_tech_in_germany_-_james_rushford.pptx.pdf)
-
-## 10 - Event Handling
+## 09 - Event Handling
 
 - 🏁 [Review quiz](https://kahoot.it/challenge/03404603?challenge-id=ccaf4dd8-8059-4c09-8226-c2affa4f1a45_1617126698005)
 - 📦 [ToDo app exercise](https://codesandbox.io/s/redi-week-05-exercises-wplqq?file=/src/App.js)
 
-## 11 - Component Hierarchy and Passing Props
+## 10 - Component Hierarchy and Passing Props
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1DvmaVRvEOMjpUeyK0T4ppLAMAfPjek8lmdE8C6j1Hqc/edit#slide=id.g9d90a069b6_0_349)
 - 📦  [More ToDo app exercises](https://codesandbox.io/s/redi-week-05-exercises-forked-lb6bd?file=/src/ToDoApp.js)
 
-## 12 - styled-components and exercises
+## 11 - styled-components and exercises
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1HDfd8eKdHhbaVfA7XO_rI3JeXcrL0rXZbhLf0k2PPi4/edit#slide=id.g9d90a069b6_0_358)
 - 📦 [Starter code](https://codesandbox.io/s/15ynf)
 - ✏️ [Potential solution](https://codesandbox.io/s/redi-session-11-todo-solution-fwu3k)
 
-## 13 - Children and Styling
+## 12 - Children and Styling
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1Z1Il2OWFKR3vto_Xuy0QccEVEB9kuVvTubV0eKPQq-o/edit)
 
-## 14 - React Workshop
+## 13 - React Workshop
 
 - 📦 [Live-coding solution](https://codesandbox.io/s/cool-clicking-game-exercise-forked-fj1g3)
 - ✏️ [Tiago's Director's Cut version of the Clicking Game](https://codesandbox.io/s/cool-clicking-game-exercise-directors-cut-rifp0)
 
 
-## 15 - Retro and Styling Exercises
+## 14 - Retro and Styling Exercises
 
 - 🪧 [Retro board](https://www.reetro.app/board/5fd735290341a30016e5343c/6075bcb2444393001631c236)
 - 📦 [Exercise starter code](https://codesandbox.io/s/p9qho)
