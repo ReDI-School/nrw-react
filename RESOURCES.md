@@ -4,7 +4,7 @@ Here are other resources that we've shared in Slack or talked about during class
 
 ## 🍎 For this class
 
-- [ReDI NRW React Course on MS Teams] (https://teams.microsoft.com/l/team/19%3aVF10V887KI-rfWOHQyZlIUra3_xZzRRDtfu_eWct8gA1%40thread.tacv2/conversations?groupId=c13a0184-8e29-4fc8-8d2c-1d0a745778b6&tenantId=1c379a3a-481a-418c-8757-972127fcaa7f)
+- [ReDI NRW React Course on MS Teams](https://teams.microsoft.com/l/team/19%3aVF10V887KI-rfWOHQyZlIUra3_xZzRRDtfu_eWct8gA1%40thread.tacv2/conversations?groupId=c13a0184-8e29-4fc8-8d2c-1d0a745778b6&tenantId=1c379a3a-481a-418c-8757-972127fcaa7f)
 - [ReDI Connect to get your mentor](https://connect.redi-school.org/)
 
 
