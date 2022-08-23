@@ -101,6 +101,6 @@ _More fun games from James_
 
 ## 14 - Retro and Styling Exercises
 
-- 🪧 [Retro board](https://www.reetro.app/board/5fd735290341a30016e5343c/6075bcb2444393001631c236)
+- 🪧 [Retro board](https://app.mural.co/t/redischool3025/m/redischool3025/1661279636503/237c7ec2e9e3e067c44733d78475078452415b91?sender=ua8d22912bce87e72993c0866)
 - 📦 [Exercise starter code](https://codesandbox.io/s/p9qho)
 - ✏️ [Potential solutions](https://codesandbox.io/s/ghrgo)
