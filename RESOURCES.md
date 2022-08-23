@@ -4,16 +4,9 @@ Here are other resources that we've shared in Slack or talked about during class
 
 ## 🍎 For this class
 
-- [ReDI Connect](https://connect.redi-school.org/)
-- [React Spring 2021 Course Culture](https://redi-school.slack.com/files/UKU9RSM16/F01NWF6FREJ/react_spring_2021_course_culture.pdf)
-- [Communications guidelines](https://redi-school.slack.com/files/UKU9RSM16/F01UK70DWJD/communication_guidelines.pdf)
+- [ReDI NRW React Course on MS Teams] (https://teams.microsoft.com/l/team/19%3aVF10V887KI-rfWOHQyZlIUra3_xZzRRDtfu_eWct8gA1%40thread.tacv2/conversations?groupId=c13a0184-8e29-4fc8-8d2c-1d0a745778b6&tenantId=1c379a3a-481a-418c-8757-972127fcaa7f)
+- [ReDI Connect to get your mentor](https://connect.redi-school.org/)
 
-## 🖥 Slack channels
-
-- [#events_and_workshops](https://redi-school.slack.com/archives/C0HN4LL4U) General events for the school for current students and alumni
-- [#job_postings](https://redi-school.slack.com/archives/C5CNF8WBT) Job openings, internship opportunities
-- [#21ss_students](https://redi-school.slack.com/archives/C01LWD2091D) All current students
-- [#random](https://redi-school.slack.com/archives/C0HNA90G7) Space to share other interesting websites, links and questions with the ReDI community
 
 ## 🛠 Tools
 
