@@ -1,4 +1,4 @@
-# Project
+# Projects
 
 ## How to conduct a project
 1. Split students into groups
