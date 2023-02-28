@@ -3,8 +3,8 @@
 ## How to conduct a project
 1. Split students into groups
 2. 1 group consists of 3 students
-3. Students work individually to complete projects
-4. Within the group, meet regularly, show progress, exchange feedback
+3. Within a group, students work individually to complete projects
+4. However, students meet regularly in a group, show each other's progress, exchange feedback
 5. At the project review lessons, students show their progress and get feedback from teachers
 
 ## Goal
