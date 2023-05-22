@@ -75,7 +75,7 @@ _More fun games from James_
 
 ## 09 - Event Handling
 
-- 🏁 [Review quiz]([https://kahoot.it/challenge/03404603?challenge-id=ccaf4dd8-8059-4c09-8226-c2affa4f1a45_1617126698005](https://create.kahoot.it/share/js-react-quiz/04eace12-bb4a-4899-b420-ffad7c9b0fe3))
+- 🏁 [Review quiz](https://create.kahoot.it/share/js-react-quiz/04eace12-bb4a-4899-b420-ffad7c9b0fe3)
 - 📦 [ToDo app exercise](https://codesandbox.io/s/redi-week-05-exercises-wplqq?file=/src/App.js)
 
 ## 10 - Component Hierarchy and Passing Props
