@@ -1,4 +1,4 @@
-# Resources for the ReDI Fall 2022 React Class
+# Resources for the ReDI React Class
 
 All of the slides, homework, recordings, and more from each class - in one place! 
 
