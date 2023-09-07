@@ -7,6 +7,8 @@
 4. However, students meet regularly in a group, show each other's progress, exchange feedback
 5. At the project review lessons, students show their progress and get feedback from teachers
 
+# Projects
+
 1. Language Flashcards: Build a language learning app that displays flashcards for vocabulary practice.
 - Building a nice-looking UI where they can navigate through different cards, each double-faced (a word and a definition, or a word and a translation), and toggle both sides for each card to practice and memorize.
 - Example: https://www.ankiapp.com/
