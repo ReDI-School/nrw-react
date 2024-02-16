@@ -99,8 +99,7 @@ _More fun games from James_
 - ✏️ [Tiago's Director's Cut version of the Clicking Game](https://codesandbox.io/s/cool-clicking-game-exercise-directors-cut-rifp0)
 
 
-## 14 - Retro and Styling Exercises
+## 14 - Styling Exercises
 
-- 🪧 [Retro board](https://app.mural.co/t/redischool3025/m/redischool3025/1661279636503/237c7ec2e9e3e067c44733d78475078452415b91?sender=ua8d22912bce87e72993c0866)
 - 📦 [Exercise starter code](https://codesandbox.io/s/p9qho)
 - ✏️ [Potential solutions](https://codesandbox.io/s/ghrgo)
