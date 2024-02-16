@@ -44,6 +44,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1BpCE8WLG0LqJ0UAgh12pW9lHRk2Alhp4lJ5gqbGsIRk/edit?usp=sharing)
 - 📦 [Homework](https://codesandbox.io/s/redi-react-2021-jsx-homework-5qu7v)
+- 🌐 [Reference site for homework](https://redi-react-2021-jsx-homework.netlify.app/)
 - ✏️ [One potential solution for the homework](https://codesandbox.io/s/redi-react-2021-jsx-solution-gsli2)
 
 ## 05 - React Exercises
