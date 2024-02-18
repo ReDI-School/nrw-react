@@ -13,10 +13,9 @@ You can also find more resources to help you on your React learning journey in [
 - [05 - React Components](#06---react-components)
 - [06 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
 - [07 - Thinking in React: reusability and hierarchy](#10---component-hierarchy-and-passing-props)
-- [10 - styled-components and exercises](#11---styled-components-and-exercises)
-- [11- Children and Styling](#12---children-and-styling)
-- [12 - React Workshop](#13---react-workshop)
-- [13 - Styling Exercises](#14---retro-and-styling-exercises)
+- [08- Children and Styling](#12---children-and-styling)
+- [09 - React Workshop](#13---react-workshop)
+- [10 - Styling Exercises](#14---retro-and-styling-exercises)
 
 
 ## 01 - Welcome and JavaScript Recap
@@ -47,15 +46,8 @@ You can also find more resources to help you on your React learning journey in [
 ## 07 - Thinking in React: reusability and hierarchy
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/101TpVsZUykt8QD1MUnl8TOyH9lLU0cYj4xVNlx2YrX0/edit?usp=sharing)
-- 📦  [More ToDo app exercises](https://codesandbox.io/s/redi-week-05-exercises-forked-lb6bd?file=/src/ToDoApp.js)
 
-## 10 - styled-components and exercises
-
-- 🖥 [Slides](https://docs.google.com/presentation/d/1fVWXCzSjEmnHKieevsRMtgYj4cRyKAEYM1c6FCH3NYE/edit?usp=sharing)
-- 📦 [Starter code](https://codesandbox.io/s/15ynf)
-- ✏️ [Potential solution](https://codesandbox.io/s/redi-session-11-todo-solution-fwu3k)
-
-## 11 - Children and Styling
+## 08 - Children and Styling
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1hHgqTIsCBiI7C676WYJMa6434b7Ogf_qUIntfJMA6EE/edit?usp=sharing)
 
