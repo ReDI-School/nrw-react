@@ -19,7 +19,7 @@ You can also find more resources to help you on your React learning journey in [
 - [11 - styled-components and exercises](#11---styled-components-and-exercises)
 - [12- Children and Styling](#12---children-and-styling)
 - [13 - React Workshop](#13---react-workshop)
-- [14 - Retro and Styling Exercises](#14---retro-and-styling-exercises)
+- [14 - Styling Exercises](#14---retro-and-styling-exercises)
 
 
 ## 01 - Welcome and JavaScript Recap
