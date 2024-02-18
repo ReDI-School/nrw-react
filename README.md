@@ -12,8 +12,7 @@ You can also find more resources to help you on your React learning journey in [
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
 - [05 - React Components](#06---react-components)
 - [06 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
-- [08 - Event Handling](#09---event-handling)
-- [09 - Component Hierarchy and Passing Props](#10---component-hierarchy-and-passing-props)
+- [07 - Component Hierarchy and Passing Props](#10---component-hierarchy-and-passing-props)
 - [10 - styled-components and exercises](#11---styled-components-and-exercises)
 - [11- Children and Styling](#12---children-and-styling)
 - [12 - React Workshop](#13---react-workshop)
@@ -45,12 +44,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1GMpCR-0vnPof_v0yCtqbCb_B5Z-WLfzWBS5ZAy8y6pU/edit?usp=sharing)
 
-## 08 - Event Handling
-
-- 🏁 [Review quiz](https://create.kahoot.it/share/js-react-quiz/04eace12-bb4a-4899-b420-ffad7c9b0fe3)
-- 📦 [ToDo app exercise](https://codesandbox.io/s/redi-week-05-exercises-wplqq?file=/src/App.js)
-
-## 09 - Component Hierarchy and Passing Props
+## 07 - Component Hierarchy and Passing Props
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/101TpVsZUykt8QD1MUnl8TOyH9lLU0cYj4xVNlx2YrX0/edit?usp=sharing)
 - 📦  [More ToDo app exercises](https://codesandbox.io/s/redi-week-05-exercises-forked-lb6bd?file=/src/ToDoApp.js)
