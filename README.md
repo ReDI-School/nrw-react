@@ -10,16 +10,15 @@ You can also find more resources to help you on your React learning journey in [
 - [02 - JavaScript Recap “Destructing and Array Functions“](#01---javascript-recap)
 - [03 - JS to know for React](#03---workshop-js-to-know-for-react)
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
-- [05 - React Exercises](#05---react-exercises)
-- [06 - React Components](#06---react-components)
-- [07 - React Components Exercises](#07---react-components-exercises)
-- [08 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
-- [09 - Event Handling](#09---event-handling)
-- [10 - Component Hierarchy and Passing Props](#10---component-hierarchy-and-passing-props)
-- [11 - styled-components and exercises](#11---styled-components-and-exercises)
-- [12- Children and Styling](#12---children-and-styling)
-- [13 - React Workshop](#13---react-workshop)
-- [14 - Styling Exercises](#14---retro-and-styling-exercises)
+- [05 - React Components](#06---react-components)
+- [06 - React Components Exercises](#07---react-components-exercises)
+- [07 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
+- [08 - Event Handling](#09---event-handling)
+- [09 - Component Hierarchy and Passing Props](#10---component-hierarchy-and-passing-props)
+- [10 - styled-components and exercises](#11---styled-components-and-exercises)
+- [11- Children and Styling](#12---children-and-styling)
+- [12 - React Workshop](#13---react-workshop)
+- [13 - Styling Exercises](#14---retro-and-styling-exercises)
 
 
 ## 01 - Welcome and JavaScript Recap
@@ -38,15 +37,12 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1BpCE8WLG0LqJ0UAgh12pW9lHRk2Alhp4lJ5gqbGsIRk/edit?usp=sharing)
 
-## 05 - React Exercises
 
-- 🖥  [Slides](https://docs.google.com/presentation/d/1-gUv0hSUQ9n-FwIAzsyaR3p-iofNGkvXgQbgCdEpHUQ/edit?usp=sharing) 
-
-## 06 - React Components
+## 05 - React Components
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/16IYvRmGNS7GM9FbgvtZDT3g2K1CLhXs3RbZyp-z4gCA/edit?usp=sharing)
 
-## 07 - React Components (Exercises)
+## 06 - React Components (Exercises)
 
 - 📦 [Components and props exercise](https://codesandbox.io/s/zoo-cards-mhgx8)
 - 📦 [Cool Clicking Game Exercise](https://codesandbox.io/s/cool-clicking-game-exercise-3lrep?file=/src/App.js)
@@ -58,39 +54,39 @@ _More fun games from James_
 - 🍪 [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 - 🍦 [James's awesome vanilla JS career Changer Game](https://codepen.io/crushford/pen/BMRpve)
 
-## 08 - Conditional Rendering, Rendering Lists and Handling Events
+## 07 - Conditional Rendering, Rendering Lists and Handling Events
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1GMpCR-0vnPof_v0yCtqbCb_B5Z-WLfzWBS5ZAy8y6pU/edit?usp=sharing)
 - 📦  [Homework](https://codesandbox.io/s/portfolio-skills-list-unnwl)
 - ✏️ [Anil's solution for the event handling exercise](https://codesandbox.io/s/event-handlers-forked-yd1nd)
 
-## 09 - Event Handling
+## 08 - Event Handling
 
 - 🏁 [Review quiz](https://create.kahoot.it/share/js-react-quiz/04eace12-bb4a-4899-b420-ffad7c9b0fe3)
 - 📦 [ToDo app exercise](https://codesandbox.io/s/redi-week-05-exercises-wplqq?file=/src/App.js)
 
-## 10 - Component Hierarchy and Passing Props
+## 09 - Component Hierarchy and Passing Props
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/101TpVsZUykt8QD1MUnl8TOyH9lLU0cYj4xVNlx2YrX0/edit?usp=sharing)
 - 📦  [More ToDo app exercises](https://codesandbox.io/s/redi-week-05-exercises-forked-lb6bd?file=/src/ToDoApp.js)
 
-## 11 - styled-components and exercises
+## 10 - styled-components and exercises
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1fVWXCzSjEmnHKieevsRMtgYj4cRyKAEYM1c6FCH3NYE/edit?usp=sharing)
 - 📦 [Starter code](https://codesandbox.io/s/15ynf)
 - ✏️ [Potential solution](https://codesandbox.io/s/redi-session-11-todo-solution-fwu3k)
 
-## 12 - Children and Styling
+## 11 - Children and Styling
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1hHgqTIsCBiI7C676WYJMa6434b7Ogf_qUIntfJMA6EE/edit?usp=sharing)
 
-## 13 - React Workshop
+## 12 - React Workshop
 
 - 📦 [Live-coding solution](https://codesandbox.io/s/cool-clicking-game-exercise-forked-fj1g3)
 - ✏️ [Tiago's Director's Cut version of the Clicking Game](https://codesandbox.io/s/cool-clicking-game-exercise-directors-cut-rifp0)
 
 
-## 14 - Styling Exercises
+## 13 - Styling Exercises
 
 - 📦 [Exercise starter code](https://codesandbox.io/s/p9qho)
 - ✏️ [Potential solutions](https://codesandbox.io/s/ghrgo)
