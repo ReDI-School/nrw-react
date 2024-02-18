@@ -6,16 +6,16 @@ You can also find more resources to help you on your React learning journey in [
 
 ## Table of Contents
 
-- [01 - Welcome and JavaScript Recap]
-- [02 - JavaScript Recap “Destructing and Array Functions“]
-- [03 - JS to know for React]
-- [04 - Introduction to JSX]
-- [05 - React Components]
-- [06 - Conditional Rendering, Rendering Lists and Handling Events]
-- [07 - Thinking in React: reusability and hierarchy]
-- [08- Children and Styling]
-- [09 - useEffect & async await & fetch]
-- [10 - Routing]
+- 01 - Welcome and JavaScript Recap]
+- 02 - JavaScript Recap “Destructing and Array Functions“]
+- 03 - JS to know for React]
+- 04 - Introduction to JSX]
+- 05 - React Components]
+- 06 - Conditional Rendering, Rendering Lists and Handling Events]
+- 07 - Thinking in React: reusability and hierarchy]
+- 08- Children and Styling]
+- 09 - useEffect & async await & fetch]
+- 10 - Routing]
 
 
 ## 01 - Welcome and JavaScript Recap
