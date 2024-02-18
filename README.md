@@ -7,7 +7,7 @@ You can also find more resources to help you on your React learning journey in [
 ## Table of Contents
 
 - [01 - Welcome and JavaScript Recap](#01---welcome-and-javascript-recap)
-- [02 - JavaScript Recap](#01---javascript-recap)
+- [02 - JavaScript Recap “Destructing and Array Functions“](#01---javascript-recap)
 - [03 - Workshop: JS to know for React](#03---workshop-js-to-know-for-react)
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
 - [05 - React Exercises](#05---react-exercises)
@@ -25,13 +25,10 @@ You can also find more resources to help you on your React learning journey in [
 ## 01 - Welcome and JavaScript Recap
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1XwpGyjgvvc6HPFbaBBRd7-KJzZWPC_umfSITtjXBpxA/edit?usp=sharing)
-- 📝 [Very detailed yet simple explanation of imports and exports in JS](https://javascript.info/import-export)
 
-## 02 - JavaScript Recap
+## 02 - JavaScript Recap “Destructing and Array Functions“
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1XF720USwcoOC21d_g5ay5udiDDTiesRxFk3DY4WOIRY/edit?usp=sharing)
-- 📦 [Object destructuring exercise](https://codesandbox.io/s/object-destructuring-xlj5l?file=/src/App.js)
-- 📦 [Array destructuring exercise](https://codesandbox.io/s/array-destructuring-335bk?file=/src/App.js)
 
 ## 03 - Workshop: JS to know for React
 
