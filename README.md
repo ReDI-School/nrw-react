@@ -11,7 +11,7 @@ You can also find more resources to help you on your React learning journey in [
 - [03 - JS to know for React](#03---workshop-js-to-know-for-react)
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
 - [05 - React Components](#06---react-components)
-- [07 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
+- [06 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
 - [08 - Event Handling](#09---event-handling)
 - [09 - Component Hierarchy and Passing Props](#10---component-hierarchy-and-passing-props)
 - [10 - styled-components and exercises](#11---styled-components-and-exercises)
@@ -41,11 +41,9 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/16IYvRmGNS7GM9FbgvtZDT3g2K1CLhXs3RbZyp-z4gCA/edit?usp=sharing)
 
-## 07 - Conditional Rendering, Rendering Lists and Handling Events
+## 06 - Conditional Rendering, Rendering Lists and Handling Events
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1GMpCR-0vnPof_v0yCtqbCb_B5Z-WLfzWBS5ZAy8y6pU/edit?usp=sharing)
-- 📦  [Homework](https://codesandbox.io/s/portfolio-skills-list-unnwl)
-- ✏️ [Anil's solution for the event handling exercise](https://codesandbox.io/s/event-handlers-forked-yd1nd)
 
 ## 08 - Event Handling
 
