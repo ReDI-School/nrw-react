@@ -14,7 +14,7 @@ You can also find more resources to help you on your React learning journey in [
 - 06 - Conditional Rendering, Rendering Lists and Handling Events
 - 07 - Thinking in React: reusability and hierarchy
 - 08- Children and Styling
-- 09 - useEffect & async await & fetch
+- 09 - Use Effect & async await & fetch
 - 10 - Routing
 
 
@@ -50,7 +50,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1hHgqTIsCBiI7C676WYJMa6434b7Ogf_qUIntfJMA6EE/edit?usp=sharing)
 
-## 09 - useEffect & async await & fetch
+## 09 - Use Effect & async await & fetch
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1usMHMt_UUDdIcGV98XXD3ntuItGe_2h7/edit#slide=id.p1)
 
