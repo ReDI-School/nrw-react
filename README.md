@@ -8,7 +8,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - [01 - Welcome and JavaScript Recap](#01---welcome-and-javascript-recap)
 - [02 - JavaScript Recap “Destructing and Array Functions“](#01---javascript-recap)
-- [03 - Workshop: JS to know for React](#03---workshop-js-to-know-for-react)
+- [03 - JS to know for React](#03---workshop-js-to-know-for-react)
 - [04 - Introduction to JSX](#04---introduction-to-jsx)
 - [05 - React Exercises](#05---react-exercises)
 - [06 - React Components](#06---react-components)
@@ -30,7 +30,7 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1XF720USwcoOC21d_g5ay5udiDDTiesRxFk3DY4WOIRY/edit?usp=sharing)
 
-## 03 - Workshop: JS to know for React
+## 03 - JS to know for React
 
 - 🖥  [Slides](https://docs.google.com/presentation/d/1AhF6nm7ajeL1jyT7RHQuZVqCoa-Ot6ktmg_NNxeZxNE/edit?usp=sharing)
 
