@@ -14,8 +14,8 @@ You can also find more resources to help you on your React learning journey in [
 - [06 - Conditional Rendering, Rendering Lists and Handling Events](#08---conditional-rendering-rendering-lists-and-handling-events)
 - [07 - Thinking in React: reusability and hierarchy](#10---component-hierarchy-and-passing-props)
 - [08- Children and Styling](#12---children-and-styling)
-- [09 - React Workshop](#13---react-workshop)
-- [10 - Styling Exercises](#14---retro-and-styling-exercises)
+- [09 - useEffect & async await & fetch](#13---react-workshop)
+- [10 - Routing](#14---retro-and-styling-exercises)
 
 
 ## 01 - Welcome and JavaScript Recap
@@ -51,13 +51,11 @@ You can also find more resources to help you on your React learning journey in [
 
 - 🖥 [Slides](https://docs.google.com/presentation/d/1hHgqTIsCBiI7C676WYJMa6434b7Ogf_qUIntfJMA6EE/edit?usp=sharing)
 
-## 12 - React Workshop
+## 09 - useEffect & async await & fetch
 
-- 📦 [Live-coding solution](https://codesandbox.io/s/cool-clicking-game-exercise-forked-fj1g3)
-- ✏️ [Tiago's Director's Cut version of the Clicking Game](https://codesandbox.io/s/cool-clicking-game-exercise-directors-cut-rifp0)
+- 🖥 [Slides](https://docs.google.com/presentation/d/1usMHMt_UUDdIcGV98XXD3ntuItGe_2h7/edit#slide=id.p1)
 
 
-## 13 - Styling Exercises
+## 10 - Routing
 
-- 📦 [Exercise starter code](https://codesandbox.io/s/p9qho)
-- ✏️ [Potential solutions](https://codesandbox.io/s/ghrgo)
+- 🖥 [Slides](https://docs.google.com/presentation/d/1wxLDwNeJ0r0mliT4jv8C6_ln0nWQhgKF/edit#slide=id.p1)
