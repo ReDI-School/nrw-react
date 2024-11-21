@@ -15,7 +15,7 @@
 
 2. Recipe Finder and Meal Planner: Build an app that helps users find recipes based on ingredients they have and plan their weekly meals.
 - Having a list of different recipes, each with a defined set of ingredients, and then when a user wants to eat, they tick the checkboxes of the ingredients they have available, and then display the recipes that require exactly these ingredients or require less.
-- Example: [https://www.kptncook.com/en/mealplanner](https://www.eatwell101.com/meal-planner?_search_bar=salad)
+- Example: [https://www.eatwell101.com/meal-planner](https://www.eatwell101.com/meal-planner?_search_bar=salad)
 
 3. Event Countdown App: Create an app that allows users to create and countdowns for events like birthdays, vacations, or product launches.
 - Create an interface where can add an event title and a deadline, and then a simple countdown is displayed accordingly.
